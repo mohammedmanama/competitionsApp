@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240586023287",
+    "project_id": "competitionsapp-ad83f",
+    "storage_bucket": "competitionsapp-ad83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240586023287:android:055b4692afc083a22f4172",
+        "android_client_info": {
+          "package_name": "com.example.hp15_bs.competitionsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240586023287-a6ks58jd0mdpk8urgttbgb68ul7m7tes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNdTfTbplhj347CZksC8vQHaWdQB1Qrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240586023287-a6ks58jd0mdpk8urgttbgb68ul7m7tes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

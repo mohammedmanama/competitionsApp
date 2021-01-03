@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Competitions App</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="itemTV" />
+</resources>
